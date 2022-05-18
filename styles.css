@@ -31,6 +31,10 @@ body {
     max-width: 600px;
 }
 
+#activites {
+    border: 3px solid black;
+}
+
 #churches-header {
     margin: 50px 0 0;
 }
