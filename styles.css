@@ -32,16 +32,13 @@ body {
 }
 
 #activites {
-    border: 3px solid black;
-}
-
-#churches-header {
-    margin: 50px 0 0;
+    margin: 50px 0 70px;
+    height: 200px;
+    border-bottom: 3px solid black;
 }
 
 #churches-section {
-    margin: 5px 0 70px;
-    height: 200px;
+    margin: 5px 0;
     background: white;
     display: flex;
     justify-content: space-around;
