@@ -58,6 +58,7 @@ body {
     justify-content: space-around;
     align-items: center;
     background: linear-gradient(90deg, #001D3D, #0A89FF);
+    border-radius: 20px;
 }
 
 #guide-section:hover {
