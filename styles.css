@@ -8,7 +8,7 @@ body {
 
 #hero {   
     margin: 0;
-    height: 350px;
+    height: 400px;
     background-image: url("images/Kiev.png");
     background-size: cover;
     display: flex;
@@ -60,7 +60,7 @@ body {
 #guide-section {
     margin: 0 auto 50px;
     color: white;
-    height: 250px;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
